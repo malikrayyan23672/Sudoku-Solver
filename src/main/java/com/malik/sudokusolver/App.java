@@ -1,6 +1,5 @@
-package com.mycompany.app;
+package com.malik.sudokusolver;
 import javax.swing.*;
-import com.mycompany.*;
 /**
  * Hello world!
  *

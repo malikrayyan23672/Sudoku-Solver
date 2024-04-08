@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package com.malik.sudokusolver;
 
 import javax.swing.*;
 import javax.swing.GroupLayout.Alignment;
